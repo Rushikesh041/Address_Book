@@ -1,4 +1,6 @@
-﻿namespace Address_Book
+﻿using System.Net;
+
+namespace Address_Book
 {
     public class Program
     {
